@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+p {
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.Top-Container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100PX;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 10px;
+  padding: 40px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.Top-Cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.Bottom-Cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.contactmesssage {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+a {
+  text-decoration: none;
+  margin: 10px 10px;
+  padding-left: 30px;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.webd {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.wings {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill1 {
+  float: left;
+  margin-right: 30px;
+}
+
+.next {
+  float: right;
+  margin-left: 30px;
+}
+
+.copyright {
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+.footer-link {
+  display: inline-block;
+  margin-right: 30px;
+  margin-left: auto;
+}
+
+.myButton {
+  box-shadow: inset 0px 1px 3px 0px #9acc85;
+  background: linear-gradient(to bottom, #74ad5a 5%, #09ebab 100%);
+  background-color: #74ad5a;
+  border-radius: 5px;
+  border: 1px solid #3b6e22;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 11px 23px;
+  text-decoration: none;
+  text-shadow: 0px -1px 0px #92b879;
+  margin: auto;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #09ebab 5%, #74ad5a 100%);
+  background-color: #09ebab;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+hr {
+  border: 4px dotted grey;
+  border-style: none none dotted;
+  color: #fff;
+  background-color: #EAF6F6;
+  width: 3%;
+  margin: 100px auto;
+}
+
+.head {
+  margin: 100px 0 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+a:hover {
+  color: white;
+}
